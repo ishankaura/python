@@ -12,3 +12,5 @@ b="added in git hub"
 c="add another in git hub"
 
 e="creating a new variable in git-hub-branch and remove d variable"
+
+f=["ishan","kaura"]
